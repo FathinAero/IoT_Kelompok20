@@ -38,6 +38,10 @@ The results from the testing phase of the ForecastBuddy project align with the e
 The ForecastBuddy project was evaluated based on its ability to meet the established objectives and functionality criteria. The system successfully integrates the ESP32 microcontroller, the DHT11 sensor, the BMKG weather API, and the Blynk platform to provide real-time weather monitoring and analysis.
 During the evaluation phase, the system’s performance was found to be reliable and accurate. The data retrieved from the DHT11 sensor and the BMKG API were consistently synchronized, with clear and accurate readings displayed via the Blynk app. The integration with Blynk allowed users to easily access the weather data from their mobile devices, ensuring a smooth user experience. The system also performed well in terms of response time and reliability, with minimal lag when retrieving data and displaying it on the Blynk platform.
 
+## User Manual
+* Prepare the Circuit and Turn On the ESP32
+* Connect the mobile device to Wi-Fi and open the Blynk app.
+* The data can now be monitored from the mobile device in real-time.
 
 
 ## Conclusion and future work
